@@ -1,0 +1,40 @@
+# 🎯 GPT-2 Sample Prompts for Testing
+
+## 🚀 Creative Writing
+1. "The future of artificial intelligence will revolutionize"
+2. "Once upon a time in a world where robots dream"
+3. "In 2050, the most surprising technology breakthrough was"
+
+## 💼 Business & Tech
+4. "The key to successful entrepreneurship in the AI era is"
+5. "Recent breakthroughs in quantum computing have enabled"
+6. "How blockchain technology will transform healthcare by"
+
+## 🎭 Storytelling
+7. "Detective Sarah Chen discovered that the AI suspect"
+8. "The last human on Earth finally met"
+9. "When machines learned to feel emotions, they"
+
+## 🧪 Science & Research
+10. "Scientists recently discovered that dark matter"
+11. "The cure for aging was found when researchers"
+12. "Climate change solutions became possible after"
+
+## 🎵 Arts & Culture
+13. "The evolution of music through AI shows"
+14. "Digital art reached new heights when"
+15. "The first AI-generated movie plot was"
+
+## 🏆 Professional Tips:
+- **Start with 3-5 words** for best results
+- **Use temperature 0.7-0.9** for creative outputs
+- **Try max length 100-200** for detailed responses
+- **Generate 2-3 variations** to see different styles
+
+## 🔧 Quick Test Commands:
+```bash
+# Run the interactive demo
+streamlit run gpt2_interactive_demo.py
+
+# Or test CLI version
+python gpt2_enhanced.py
