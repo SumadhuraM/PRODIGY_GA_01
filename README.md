@@ -1,4 +1,4 @@
-# 🚀 GPT-2 Text Generation Project
+# 🚀 Text Generation with GPT-2
 
 Generate human-like text with GPT-2, featuring enhanced parameters and an interactive web interface. This project demonstrates AI-powered creativity in Python with both CLI scripts and a professional demo.
 
