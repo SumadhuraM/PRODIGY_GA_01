@@ -1,28 +1,28 @@
-# 🚀 Text Generation with GPT-2
+#  Text Generation with GPT-2
 
 Generate human-like text with GPT-2, featuring enhanced parameters and an interactive web interface. This project demonstrates AI-powered creativity in Python with both CLI scripts and a professional demo.
 
-## ✨ Features
+##  Features
 
-- 🤖 **GPT-2 text generation** working flawlessly
-- 🎛 **Adjustable parameters**: temperature & top-p for creative outputs
-- 🌐 **Interactive web interface** for real-time text generation
-- 🧹 **Clean and documented code**
+-  **GPT-2 text generation** working flawlessly
+-  **Adjustable parameters**: temperature & top-p for creative outputs
+-  **Interactive web interface** for real-time text generation
+-  **Clean and documented code**
 
-## ✅ Professional Standards
+##  Professional Standards
 
-- ⚡ **Error handling** implemented
-- 📄 **requirements.txt** updated
-- 📝 **Fully documented** with this README
-- 🧪 **Tested & Verified**
+-  **Error handling** implemented
+-  **requirements.txt** updated
+-  **Fully documented** with this README
+-  **Tested & Verified**
 
-## ✅ Tested & Verified
+##  Tested & Verified
 
-- ✅ **CLI versions** tested and fully working
-- ✅ **Interactive demo** tested and ready
-- 📌 **Sample prompts** included for quick experimentation
+-  **CLI versions** tested and fully working
+-  **Interactive demo** tested and ready
+-  **Sample prompts** included for quick experimentation
 
-## 📂 Project Files
+##  Project Files
 
 - `gpt2_text_generation_script.py` – Basic CLI version
 - `gpt2_enhanced.py` – Advanced CLI with adjustable parameters
@@ -31,7 +31,7 @@ Generate human-like text with GPT-2, featuring enhanced parameters and an intera
 - `requirements.txt` – Project dependencies
 - `README.md` – Project documentation
 
-## ⚡ Setup & Usage
+##  Setup & Usage
 
 ### Clone the repository:
 ```bash
@@ -57,15 +57,15 @@ streamlit run gpt2_interactive_demo.py
 
 ### Test with prompts from `sample_prompts.txt`
 
-## 🎯 Deliverables
+##  Deliverables
 
-- ✅ **Fully functional GPT-2 model**
-- ✅ **Enhanced CLI with parameters**
-- ✅ **Interactive web demo ready**
-- ✅ **Sample prompts for testing**
-- ✅ **Clean code and documentation**
+-  **Fully functional GPT-2 model**
+-  **Enhanced CLI with parameters**
+-  **Interactive web demo ready**
+-  **Sample prompts for testing**
+-  **Clean code and documentation**
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 - **AI/ML Implementation**: Hands-on experience with GPT-2
 - **Parameter Tuning**: Understanding temperature and top-p effects
