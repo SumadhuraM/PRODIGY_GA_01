@@ -55,7 +55,7 @@ python gpt2_enhanced.py
 streamlit run gpt2_interactive_demo.py
 ```
 
-### Test with prompts from sample_prompts.txt
+### Test with prompts from "sample_prompts.txt"
 
 ##  Deliverables
 
