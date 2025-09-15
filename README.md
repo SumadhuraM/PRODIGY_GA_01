@@ -9,7 +9,7 @@ Generate human-like text with GPT-2, featuring enhanced parameters and an intera
 -  **Interactive web interface** for real-time text generation
 -  **Clean and documented code**
 
-##  Professional Standards
+##  Standards
 
 -  **Error handling** implemented
 -  **requirements.txt** updated
